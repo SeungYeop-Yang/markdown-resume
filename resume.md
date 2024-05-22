@@ -59,5 +59,5 @@ subject: 'resume'
 
 ## Education
 
-### Masters in Electronics Engineering
+### Master in Electrical Engineering
 
