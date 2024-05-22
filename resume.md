@@ -44,6 +44,8 @@ subject: 'resume'
 
 - CICD & Vault Development Manager
 - IaaS QA & Automation Manager
+- Cloud System Test & Terraform Provider, Packer Plugin QA Lead
+- Clooud System Test Engineer
 
 **Technologies used:** Python, Terraform, Packer, Ansible, Go, terragrunt, Jenkins, Travis, etc.
 
@@ -52,7 +54,7 @@ subject: 'resume'
 2018-2019, Austin, TX
 
 - OpenStack based private cloud QA Lead
-- Managed QA teams for Unit, System, Performance Tests
+- Managed QA teams for Unit, System Tests
 
 **Technologies used:** Python, Ansible, Vagrant, Artifactory, MetalaaS, OpenStack, Jenkins, Packer
 
