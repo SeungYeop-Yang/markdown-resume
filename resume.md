@@ -58,6 +58,21 @@ subject: 'resume'
 
 **Technologies used:** Python, Ansible, Vagrant, Artifactory, MetalaaS, OpenStack, Jenkins, Packer
 
+### System Test Engineer, Keysight(former IXIA)
+
+2017-2018, Austin, TX
+
+### Cloud Test Engineer, IBM
+
+2016-2017, Austin, TX
+
+### System Test Engineer, Keysight(former IXIA)
+
+2012-2016, Austin, TX
+
+### Principal Engineer (DMTS), LSI (former Agere (former Lucent))
+
+2001-2012, Allentown, PA
 
 ## Education
 
