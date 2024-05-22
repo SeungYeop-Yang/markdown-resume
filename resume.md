@@ -4,7 +4,7 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
 title: SeungYeop Yang
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+description-meta: 'resume'
 keywords:
   - 'Cloud'
   - 'IaC'
