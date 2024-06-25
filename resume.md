@@ -16,7 +16,7 @@ author:
 subject: "resume"
 ---
 
-###### [[LinkedIn](https://www.linkedin.com/in/seung-yeop-yang/)] . [ SeungYeop.Yang@gmail.com] . [610-504-8123]
+###### [[LinkedIn](https://www.linkedin.com/in/seung-yeop-yang/)] . [SeungYeop.Yang@gmail.com] . []
 
 ### Software Development Engineering Manager
 
@@ -33,9 +33,9 @@ subject: "resume"
 `cloud`
 `project management`
 
-**Programming**: Python, Go, C
+**Programming**: Python, Tcl/Expect, Go, C
 **IaC**: Terraform, Packer, Ansible, Vault
-**DevOps**: Jenkins, Travis, Bash, Ansible, Kubernetes, Cloud, etc.
+**DevOps**: Jenkins, Travis, Bash, Ansible, Kubernetes, Virtual Private Cloud, etc.
 
 ## Experience
 
@@ -43,10 +43,10 @@ subject: "resume"
 
 2019-Present, Austin, TX
 
-- CICD & Vault Development Manager
-- IaaS QA & Automation Manager
+- Continuous Delivery & Vault Development Manager
+- Virtual Private Cloud/Infrastructure-aaS QA & Automation Manager
 - Cloud System Test & Terraform Provider, Packer Plugin QA Lead
-- Clooud System Test Engineer
+- Cloud System Test Engineer
 
 **Technologies used:** Python, Terraform, Packer, Ansible, Go, terragrunt, Jenkins, Travis, etc.
 
