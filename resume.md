@@ -4,33 +4,34 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
 title: SeungYeop Yang
-description-meta: 'resume'
+description-meta: "resume"
 keywords:
-  - 'Cloud'
-  - 'IaC'
-  - 'DevOps'
-  - 'SRE'
-  - 'Platform Engineering'
+  - "Cloud"
+  - "IaC"
+  - "DevOps"
+  - "SRE"
+  - "Platform Engineering"
 author:
-- SeungYeop Yang
-subject: 'resume'
+  - SeungYeop Yang
+subject: "resume"
 ---
-###### [[LinkedIn](https://www.linkedin.com/in/seung-yeop-yang/)] . [ SeungYeop.Yang@gmail.com] . []
+
+###### [[LinkedIn](https://www.linkedin.com/in/seung-yeop-yang/)] . [ SeungYeop.Yang@gmail.com] . [610-504-8123]
 
 ### Software Development Engineering Manager
 
 ## Skills
 
-```IaC```
-```Terraform```
-```Packer```
-```Ansible```
-```programming```
-```devops```
-```sdlc```
-```containers```
-```cloud```
-```project management```
+`IaC`
+`Terraform`
+`Packer`
+`Ansible`
+`programming`
+`devops`
+`sdlc`
+`containers`
+`cloud`
+`project management`
 
 **Programming**: Python, Go, C
 **IaC**: Terraform, Packer, Ansible, Vault
@@ -77,4 +78,3 @@ subject: 'resume'
 ## Education
 
 ### Master in Electrical Engineering
-
